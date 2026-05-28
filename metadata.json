@@ -1,0 +1,6 @@
+{
+  "name": "LOKAN - Sistemas Inteligentes",
+  "description": "Plataforma institucional e simulador interativo de sistemas sob medida da LOKAN na Ilha de Vera Cruz, Bahia. Crie projetos personalizados guiados por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
